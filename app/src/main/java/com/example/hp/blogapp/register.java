@@ -1,4 +1,4 @@
-package com.example.hp.blogapp;
+package com.example.blogapp;
 
 import android.content.Intent;
 import android.net.Uri;

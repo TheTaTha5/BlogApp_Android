@@ -1,4 +1,4 @@
-package com.example.hp.blogapp;
+package com.example.blogapp;
 
 import android.content.Context;
 import android.support.annotation.NonNull;

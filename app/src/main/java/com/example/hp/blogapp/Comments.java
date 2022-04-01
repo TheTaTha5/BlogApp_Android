@@ -1,4 +1,4 @@
-package com.example.hp.blogapp;
+package com.example.blogapp;
 
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;

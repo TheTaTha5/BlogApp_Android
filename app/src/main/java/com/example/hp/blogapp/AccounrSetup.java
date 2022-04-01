@@ -1,4 +1,4 @@
-package com.example.hp.blogapp;
+package com.example.blogapp;
 
 import android.Manifest;
 import android.content.Intent;
@@ -65,6 +65,7 @@ public class AccounrSetup extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_accounr_setup);
+
 
         //Toolbar
         toolbarSetup = findViewById(R.id.toolbarSetup);
